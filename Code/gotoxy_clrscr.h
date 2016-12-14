@@ -11,6 +11,6 @@ void zeichne_achse(void);
 void beschrifte_xachse(unsigned char dx);
 void initDosWindow();
 void SetConsoleFont(unsigned char fonthight);
-
+void abbrechen(void);
 //
 #endif

@@ -1,9 +1,11 @@
  #include <stdio.h>
+#include  <iostream> 
  #include <stdlib.h>
 #include <string.h>
 #include"..\Code\gotoxy_clrscr.h"   // REF[3]
 #include <windows.h>
-#include  <iostream>  
+using namespace std;
+
 #define sign		'*'
 int i = 0;
 int e = 0;
@@ -12,6 +14,16 @@ int b = 18;
 
 WORD Attributes = 0;   // Attri. for resetting DOS Colors
 // ---------------------------------
+
+
+/* Funktionen ausprogrammiert.    */
+void abbrechen(void) {
+	char tempin;// Warte auf Abbruch der Ausgabe 
+	gotoxy(50, 1); cout << "Abbruch mit j/J";
+	do {
+		cin >> tempin;
+	} while (!((tempin == ('j')) || (tempin == ('J'))));
+}
 
 void initDosWindow(){
 // REF[4]
