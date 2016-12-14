@@ -1,7 +1,0 @@
-﻿  Main.cpp
-  gotoxy_clrscr.cpp
-d:\user\rma\documents\github\mcb32\oop_zeichnen_v03\oop_dosfensterzeichnen\code\gotoxy_clrscr.cpp(30): warning C4244: "Argument": Konvertierung von "DWORD" in "WORD", möglicher Datenverlust
-  classZeichnen.cpp
-  Code wird generiert...
-  OOP_DosFensterZeichnen.vcxproj -> D:\user\rma\Documents\GitHub\mcb32\OOP_Zeichnen_V03\OOP_DosFensterZeichnen\VS_2015\Debug\OOP_DosFensterZeichnen.exe
-  OOP_DosFensterZeichnen.vcxproj -> D:\user\rma\Documents\GitHub\mcb32\OOP_Zeichnen_V03\OOP_DosFensterZeichnen\VS_2015\Debug\OOP_DosFensterZeichnen.pdb (Full PDB)
