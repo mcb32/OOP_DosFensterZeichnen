@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="cZeichnen">
+    <Position X="1.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAABAAAAAIAAAAAA=</HashCode>
+      <FileName>D:\user\rma\Documents\Visual Studio 2015\Projects\OOP_Zeichnen_V03\OOP_DosFensterZeichnen\Code\classZeichnen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
